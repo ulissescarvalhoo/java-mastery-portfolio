@@ -20,5 +20,7 @@ public class CheckNegative {
         } else if (number < 0) {
             System.out.println("NEGATIVO");
         }
+
+        sc.close();
     }
 }

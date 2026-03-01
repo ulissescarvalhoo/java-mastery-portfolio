@@ -24,5 +24,6 @@ public class CheckMultiples {
             System.out.println("They are not multiples");
         }
 
+        sc.close();
     }
 }

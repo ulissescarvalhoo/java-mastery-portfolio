@@ -25,6 +25,5 @@ public class CalculateCircleArea {
         System.out.printf("A=%.4f", A);
 
         sc.close();
-
     }
 }

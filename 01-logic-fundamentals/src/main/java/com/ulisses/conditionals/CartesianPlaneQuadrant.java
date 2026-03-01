@@ -39,6 +39,8 @@ public class CartesianPlaneQuadrant {
         } else if (x > 0 && y < 0) {
             System.out.println("Q4");
         }
+
+        sc.close();
     }
 
 }

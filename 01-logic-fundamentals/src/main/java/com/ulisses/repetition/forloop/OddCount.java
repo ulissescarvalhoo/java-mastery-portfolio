@@ -22,6 +22,7 @@ public class OddCount {
             }
         }
 
+        sc.close();
     }
 
 }
